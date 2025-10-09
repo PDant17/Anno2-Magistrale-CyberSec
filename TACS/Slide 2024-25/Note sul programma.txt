@@ -1,0 +1,31 @@
+Da un annuncio su e-learning:
+
+Il focus del corso è sulla verifica della correttezza e l'individuazione di errori nei programmi. Dopo una panoramica sugli strumenti e le tecniche utilizzate, verrà dato maggiore enfasi al testing (la pratica maggiormente diffusa a livello industriale) e al model-checking (una tecnica emergente completamente automatica capace di fornire una traccia di errore, e non solo l'individuazione di un bug).  Il corso presenta contenuti sia di natura  teorica che pratica, e prevede una sperimentazione delle metodologie studiate con l'ausilio di tool di verifica. 
+
+L'elenco specifico degli argomenti trattati può variare leggermente da anno in anno anche in base alle preferenze degli studenti manifestate durante le lezioni.
+
+A titolo esemplificativo viene riportato di seguito un elenco di possibili argomenti in programma :
+
+INTRODUZIONE AL PROBLEMA DELLA VERIFICA
+CORRETTEZZA DEI PROGRAMMI
+SPECIFICHE E CONCETTO DI ERRORE.
+STRUMENTI PER VERIFICARE LA CORRETTEZZA DEL SOFTWARE
+CENNI SUL TESTING
+MODEL-CHECKING
+LA TECNOLOGIA DEL MODEL-CHECKING
+CONCETTI BASE
+FONDAMENTI: AUTOMI, LOGICA TEMPORALE, COMPLESSITÀ COMPUTAZIONALE
+MODEL-CHECKING ESPLICITO
+MODEL-CHECKING SIMBOLICO
+BOUNDED MODEL-CHECKING
+MODEL-CHECKING CON AUTOMI PUSHDOWN
+MODEL-CHECKING DI CODICE SORGENTE
+ASTRAZIONE
+RAFFINAMENTO DELLE ASTRAZIONI GUIDATE DAL CONTROESEMPIO (CEGAR LOOP)
+IMPLEMENTAZIONE DI MODEL-CHECKERS CON FIXED-POINT LOGIC
+PROGRAMMI CONCORRENTI
+BOUNDED-CONTEXT SWITCHING
+SEQUENZIALIZZAZIONE
+MODEL-BASED TESTING CON MODEL-CHECKERS
+METODOLOGIE SPECIFICHE PER CLASSI DI SISTEMI
+NUOVE TECNOLOGIE
