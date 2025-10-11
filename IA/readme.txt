@@ -1,0 +1,1 @@
+Si tratta del corso di e-learning più recente a cui è possibile accedere, per 2023-24 e 2024-25 hanno disabilitato l'accesso.
