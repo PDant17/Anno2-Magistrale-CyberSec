@@ -1,0 +1,24 @@
+Animazione algoritmi di ricerca per pathfinding:
+https://qiao.github.io/PathFinding.js/visual/
+
+Alpha Go - The movie:
+https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind
+
+Web app per Reti Bayesiane:
+http://www.cs.man.ac.uk/~gbrown/bayes_nets/
+
+NLP - Video Lectures di Dan Jurafsky:
+https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
+
+SWI Prolog:
+https://www.swi-prolog.org/
+
+SWISH Prolog - online:
+https://swish.swi-prolog.org/
+
+PDDL4J library:
+https://github.com/pellierd/pddl4j/
+
+Protégé - An open-source ontology editor:
+https://protege.stanford.edu/
+
