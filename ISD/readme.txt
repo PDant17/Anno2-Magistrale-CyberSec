@@ -1,0 +1,2 @@
+Il corso e-learning più recente con ancora del materiale all'interno è quello 2019-20, ma presenta soltanto alcune delle slide e vari link.
+C'è di buono che il materiale e la descrizione del corso non sembrano essere cambiati molto nel tempo.
